@@ -7,5 +7,8 @@
   },
   "1.16.5": {
     "version_json": "https://piston-meta.mojang.com/v1/packages/fba9f7833e858a1257d810d21a3a9e3c967f9077/1.16.5.json"
+  },
+  "1.14.1": {
+    "version_json": "https://piston-meta.mojang.com/v1/packages/83299b3bf3139ebd9ae5547b3144dcf68d4cb1fd/1.14.2.json"
   }
 }
